@@ -30,6 +30,6 @@
     "slugify": "^1.4.0",
     "string-strip-html": "^4.4.7",
     "uuid": "^8.1.0",
-    "validator": "^13.0.0"
+    "validator": "^13.7.0"
   }
 }
